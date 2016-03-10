@@ -10,5 +10,6 @@ package ToutandTravel.interfc;
  * @author Ferawidya
  */
 public interface Pemesanan {
-    
+   public void pesan();
+   public void pilihPaket();
 }
